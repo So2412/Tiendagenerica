@@ -1,0 +1,84 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Poppins', sans-serif;
+}
+.conttitulo{
+    background-color: white;
+    height: 30px;
+    font: 1em 'Poppins', sans-serif;
+    font-size:60%;
+}
+.menui{
+    background-color:white;
+    float:left;
+    width: 60%;
+    margin-left: 10px;
+    margin-top: 13px;
+}
+.menui h1{
+    color: black;
+    text-align: center;
+}
+.menui li a:hover{
+    background: white;
+    color: black;
+    font-weight: bolder;
+}
+
+.menuf{
+    background-color: rgb(36, 35, 35);
+    float:right;
+    width: 36%;
+    margin-right: 10px;
+    margin-top:13px;
+}
+.menuf li a{
+    text-decoration: none;
+    color: white;
+    padding: 5px;
+    display:inline;
+}
+.menuf li a:hover{
+    background: white;
+    color: black;
+    font-weight: bolder;
+}
+
+
+li{
+    display: inline;
+    margin: 1px;
+}
+
+/*.titulo2{
+    background-color:rgb(221, 84, 153);
+    height: 50px;
+    font: 1em sans-serif;
+    font-size:80%;
+}*/
+.titulo2 .meni{
+    background-color:rgb(221, 84, 153);
+    float:left;
+    height: 25px;
+    width: 100%;
+    margin-left: 0px;
+    margin-top: 25px;
+}
+.titulo2 .meni li a{
+    text-decoration: none;
+    color: black;
+    padding: 5px;
+    display:inline;
+}
+.titulo2 .meni li a:hover{
+    background: white;
+    color: #e91e63;
+}
+.conttitulo .logob img{
+    float: left;
+    width: 40%;
+    height: 55px;
+    margin-left: 10px;
+    margin-top: 1px;
+}
